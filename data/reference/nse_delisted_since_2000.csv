@@ -1,0 +1,460 @@
+record_id,nse_symbol,isin,company_name,board,delisted_date,delisting_type,source
+NSEDL0001,CABOTINDIA,INE144B01016,Cabot India Ltd,Main Board,2002-04-15,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0002,TOLANIBULK,INE051C01011,Tolani Bulk Carriers Ltd,Main Board,2002-04-15,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0003,HOGANAS,INE132A01013,Hoganas India Ltd,Main Board,2002-08-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0004,INFARINDIA,INE568A01018,Infar (India) Ltd.,Main Board,2002-10-11,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0005,CADBURY,INE184A01014,Cadbury India Limited,Main Board,2003-02-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0006,SRIVISHCEM,INE286B01015,Sri Vishnu Cement Ltd,Main Board,2003-03-10,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0007,MADURACOAT,INE122A01014,Madura Coats Limited,Main Board,2003-04-25,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0008,RECKCOLMAN,INE274A01013,Reckitt Benckiser (India) Ltd,Main Board,2003-05-12,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0009,BHARATHOT,INE466A01015,Bharat Hotels Limited,Main Board,2003-06-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0010,OTIS,INE099A01014,OTIS Elevator Company Ltd,Main Board,2003-06-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0011,INVELTRANS,INE527A01014,GKN Driveshafts (India) Limited,Main Board,2003-07-29,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0012,INDAL,INE249A01015,Indian Aluminium Co. Ltd.,Main Board,2004-04-08,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0013,DIGITALEQP,INE124A01010,Digital GlobalSoft Ltd.,Main Board,2004-04-15,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0014,ANIKSHIP,INE445701019,Anik Ship Breaking Industries Ltd.,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0015,BHARATPIPE,INE028301013,Bharat Pipes and Fittings Ltd,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0016,CRBCAPS,INE056701019,CRB Capital Markets Ltd,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0017,CRBCORP,INE056901015,CRB Corporation Ltd,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0018,GRMAGNET,INE523A01013,GR Magnets Ltd.,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0019,KAMALOVER,Not Available,Kamal Overseas Ltd.,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0020,KEDIADIST,INE129401019,Kedia Distilleries Ltd.,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0021,MARUTIORGN,INE188101013,Maruti Organics Limited,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0022,MRINALDYE,INE203201012,Mrinal Dyeing & Manufacturing Co. Ltd,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0023,PANASIAIND,INE230801016,Pan Asia Industries Ltd,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0024,REALVALAPL,INE980C01011,Real Value Appliance Ltd.,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0025,SHIVLOHMIL,INE294201012,Shivalik Loha Mills Ltd.,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0026,WESTINDIA,INE304901015,Western India Industries Ltd,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0027,WESTNPAQUE,INE305101011,Western Paques (India) Ltd,Main Board,2004-07-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0028,E-SERVEINT,INE784A01011,e-Serve International Limited,Main Board,2004-12-22,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0029,INDGYPSUM,INE561A01013,India Gypsum Ltd,Main Board,2005-01-12,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0030,HINDSPG,INE066D01017,Hindoostan Spinning and Weaving Mills Ltd,Main Board,2005-04-05,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0031,GFL,INE868A01020,Godrej Foods Limited,Main Board,2005-04-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0032,ABGHEAVY,INE580C01019,ABG Heavy Industries Ltd,Main Board,2005-07-21,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0033,WIMCOLTD,INE333A01025,Wimco Limited,Main Board,2005-12-14,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0034,POLYCHEM,INE752B01016,Polychem Ltd,Main Board,2005-12-27,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0035,DATTMEDI,INE480E01018,Datt Mediproducts Limited,Main Board,2006-01-23,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0036,FSS,INE801A01021,Flextronics Software Systems Limited,Main Board,2006-02-10,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0037,INTEGENT,INE227A01011,Integrated Enterprises (India) Limited,Main Board,2006-05-29,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0038,ADITYAINTL,INE908B01014,Aditya International Ltd.,Main Board,2007-02-12,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0039,EICHER,INE065A01023,Eicher Limited,Main Board,2007-03-13,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0040,YOKOGAWA,INE718A01019,Yokogawa India Limited,Main Board,2007-05-10,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0041,WARTSILA,INE057A01012,Wartsila India Ltd,Main Board,2007-06-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0042,OENCONNECT,INE669B01012,FCI OEN Connectors Limited,Main Board,2007-09-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0043,PAVCI,INE071B01011,Panasonic AVC Networks India Co. Limited.,Main Board,2007-12-14,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0044,ESTL,INE127A01021,Essar Steel Limited,Main Board,2007-12-24,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0045,IGS,INE177B01016,iGate Global Solutions Limited,Main Board,2008-02-04,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0046,BOSCHCHASY,INE053B01019,Bosch Chassis Systems India Ltd.,Main Board,2008-11-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0047,PENTACOMMU,INE408A01017,Pentasoft Technologies Limited,Main Board,2009-01-09,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0048,PENTSFWARE,INE202A01014,Pentamedia Graphics Limited,Main Board,2009-01-09,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0049,MALCO,INE223B01026,The Madras Aluminium Co Ltd,Main Board,2009-06-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0050,LOTTEINDIA,INE185A01011,Lotte India Corporation Limited,Main Board,2009-07-31,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0051,MATRIXLABS,INE604D01023,Matrix Laboratories Limited,Main Board,2009-08-21,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0052,PEARLGLOBL,INE787B01012,Pearl Global Ltd,Main Board,2009-08-21,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0053,SIGROUPIND,INE547A01012,SI Group - India Limited,Main Board,2009-09-23,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0054,PHILCORP,INE601A01017,PHIL Corporation Limited,Main Board,2010-02-09,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0055,MICRO,INE056A01014,Micro Inks Limited,Main Board,2010-04-13,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0056,HINVDIR,INE800B01013,HSBC InvestDirect (India) Limited,Main Board,2010-07-15,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0057,BINANICEM,INE042H01019,Binani Cement Limited,Main Board,2011-05-30,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0058,UTVSOF,INE507B01022,UTV Software Communications Limited,Main Board,2012-03-16,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0059,CAROLINFO,INE198A01014,Carol Info Services Limited,Main Board,2012-03-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0060,NIRMA,INE091A01029,Nirma Limited,Main Board,2012-03-28,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0061,ALFALAVAL,INE427A01017,Alfa Laval (India) Limited,Main Board,2012-04-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0062,SHPRE,INE318K01017,Shree Precoated Steels Limited,Main Board,2012-05-10,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0063,PATNI,INE660F01012,Patni Computer Systems Limited,Main Board,2012-05-28,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0064,CHEMPLAST,INE488A01027,Chemplast Sanmar Limited,Main Board,2012-06-25,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0065,BATLIBOI,INE177C01022,Batliboi Limited,Main Board,2012-06-28,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0066,CHETTINAD,INE132B01011,Chettinad Cement Corporation Limited,Main Board,2013-06-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0067,FKONCO,INE575G01010,Fresenius Kabi Oncology Limited,Main Board,2014-01-10,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0068,RBN,INE445K01018,Reliance Broadcast Network Limited,Main Board,2014-03-28,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0069,RELMEDIA,INE540B01015,Reliance MediaWorks Limited,Main Board,2014-05-06,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0070,JDORGOCHEM,INE263B01022,JD Orgochem Limited,Main Board,2014-07-18,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0071,PIRGLASS,INE748E01018,Piramal Glass Limited,Main Board,2014-07-28,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0072,NOVOPANIND,INE460B01016,Novopan Industries Limited,Main Board,2014-11-10,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0073,MANJUSHREE,INE435H01015,Manjushree Technopack Limited,Main Board,2015-03-24,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0074,WINSOMEDJ,INE664A01015,Winsome Diamonds and Jewellery Limited,Main Board,2015-03-31,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0075,GSLNOVA,INE787A01022,GSL Nova Petrochemicals Limited,Main Board,2015-04-22,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0076,ESSARPORTS,INE282A01024,Essar Ports Limited,Main Board,2015-12-31,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0077,ESSAROIL,INE011A01019,Essar Oil Limited,Main Board,2016-02-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0078,HECINFRA,Not Available,HEC Infra Projects Limited,ITP,2016-02-18,Exit from ITP platform,NSE official delisted companies register
+NSEDL0079,BIRLACOT,INE655I01024,Birla Cotsyn (India) Limited,Main Board,2016-03-16,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0080,GUJSTATFIN,INE944A01011,Gujarat State Financial Corporation,Main Board,2016-03-18,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0081,ZENITHCOMP,INE598B01013,Zenith Computers Limited,Main Board,2016-03-18,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0082,HUSYS,INE336T01010,Husys Consulting Limited,ITP,2016-06-09,Exit from ITP platform,NSE official delisted companies register
+NSEDL0083,NOVAIRNSTL,INE220001015,Nova Iron & Steel Ltd,Main Board,2016-07-04,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0084,CMMINFRA,INE289S01013,CMM Infraprojects Limited,ITP,2016-07-05,Exit from ITP platform,NSE official delisted companies register
+NSEDL0085,SURAJCROP,INE565S01016,Suraj Cropsciences Limited,ITP,2016-07-26,Exit from ITP platform,NSE official delisted companies register
+NSEDL0086,CHEMOXCHEM,INE448201017,Chemox Chemical Industries Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0087,GANAPATEXP,INE451501014,Ganapati Exports Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0088,HINDALLOYS,INE495501012,Hamco Mining & Smelting Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0089,MANSUKHIND,Not Available,Mansukh Industries Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0090,MARDIACHEM,INE273B01013,Mardia Chemicals Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0091,MARDIASTL,INE439D01016,Mardia Steel Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0092,MOOLEXPORT,INE388601010,Moolchand Exports Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0093,MOTOROL,INE202601014,Motorol (I) Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0094,PALPEUGEOT,INE411601011,Pal Peugeot Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0095,PONNIORISA,INE096D01022,Ponni Sugars (Orissa) Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0096,PRUDENTCM,INE250501017,Prudential Capital Markets Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0097,SIVIND,INE639A01017,SIV Industries Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0098,SMZSCHEM,INE894C01014,SMZS Chemicals Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0099,VIBRANTINV,INE468101014,Vibrant  Investment and Properties Limited,Main Board,2016-08-31,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0100,ALPICFIN,INE429A01013,Alpic Finance Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0101,ARIHANTCOT,INE006001015,Arihant Cotsyn Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0102,BHUPENIND,INE447401014,BIL Industries Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0103,BPLREFRIG,INE313A01019,B S Refrigerators Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0104,BPLSANTECH,INE389A01019,BST Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0105,CEATFIN,INE481A01014,CFL Capital Financial Services Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0106,COMPUDYNE,INE531B01014,Compudyne Winosystems Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0107,CYBERSPACE,INE063B01026,Cyberspace Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0108,DRIND,INE197B01014,DR Softech & Industries Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0109,DSJFINCORP,INE069401011,DSJ Finance Corporation Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0110,ENKTEXFOOD,INE078501017,Enkay Texofood Industries Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0111,HANILERA,INE021D01012,Hanil Era Textiles Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0112,PATHEJAFOR,INE234901010,Patheja Forgings & Auto Parts Manufacturers Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0113,PSTL,INE165H01018,Pyramid Saimira Theatre Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0114,SNOWCEMIND,INE734A01016,Snowcem India Limited (SIL Business Enterprises Limited),Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0115,SOUNDCRAFT,INE271A01027,Soundcraft Industries Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0116,SQUAREDBIO,INE964A01019,Origin Agrostar Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0117,VINCARDS,INE810A01022,Vintage Cards & Creations Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0118,WOPOLIN,INE986C01018,Wopolin Plastics Limited,Main Board,2016-09-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0119,BENTOLCHEM,INE024601010,Chemox Laboratories Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0120,CEPHAMILK,INE044601016,Cepham Milk Specialities Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0121,DAMANIACM,INE059801014,Damania Capital Markets Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0122,DARTLTD,INE060201014,Dataline and Research Technologies Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0123,GRAPCOGRAN,INE099301017,Grapco Industries Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0124,HMGIND,INE453001013,HMG Industries Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0125,MANDUIND,Not Available,Mandu Industries Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0126,NOVASTEEL,INE587E01010,Nova Steel India Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0127,RAJINPIPE,INE259101017,Rajinder Pipes Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0128,RAJINSTEEL,INE259201015,Rajinder Steels Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0129,RUPANGIMPX,INE766B01024,Rupangi Impex Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0130,SANDERIND,INE281801014,Sanderson Industries Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0131,SUNSTARLUB,INE359101016,Sunstar Lubricants Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0132,ZENGLOBAL,INE468701011,Zen Global Finance Limited,Main Board,2016-11-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0133,ARIHANTRED,INE747A01018,Arihant Threads Limited,Main Board,2017-02-07,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0134,KAMPERCONC,INE429401016,Kamper Concast Limited,Main Board,2017-02-07,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0135,KRISHNAENG,INE409C01011,Krishna Engineering Works Limited,Main Board,2017-02-07,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0136,INFOBEANS,INE344S01016,InfoBeans Technologies Limited,ITP,2017-03-01,Exit from ITP platform,NSE official delisted companies register
+NSEDL0137,MCSL,INE208S01013,Mahaveer Cotts Strings Limited,ITP,2017-03-01,Exit from ITP platform,NSE official delisted companies register
+NSEDL0138,APOWERTOOL,INE870A01018,Consortex Karl Doelitzsch (India) Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0139,ARIHANTIND,INE006401017,Arihant Industries Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0140,BHORIND,INE160C01010,Bhor Industries Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0141,BLUEBIRD,INE697H01010,Blue Bird (India) Limited,Main Board,2017-03-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0142,BPLENGG,INE108A01013,BPL Engineering Limited,Main Board,2017-03-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0143,CAUVERSOFT,INE466B01013,Cauvery Software Engineering Systems Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0144,CDRMEDICAL,INE042201017,CDR Medical Industries Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0145,COMPUTECH,INE751A01028,Computech International Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0146,COREPARENT,INE494A01017,Core Healthcare Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0147,EIDERTELE,INE210B01015,Eider Infotech Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0148,ETPCORP,INE449601017,ETP Corporation Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0149,EUROSOFTAL,INE511A01018,European Software Alliances Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0150,GUJCYPROM,INE551001014,Gujarat Cypromet Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0151,HARYANSHET,INE038D01016,Haryana Sheet Glass Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0152,HITECHIJEW,INE454301016,Hitechi Jewellery Industries Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0153,ITIL,INE569A01024,Information Technologies India Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0154,KMF,Not Available,KMF Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0155,LANESEDA,INE520B01017,Lan Eseda Industries Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0156,MBIND,INE110601015,MB Industries Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0157,NOVAELEMAG,INE219701013,Nova Electro Magnetics Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0158,PANCHMACEM,INE231201018,Panchmahal Cement Company Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0159,PATWIDECOM,INE234701014,Patel's Widecom (India) Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0160,RINKIPETRO,INE270401016,Motorol Enterprises Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0161,ROOFITIND,INE743A01017,Roofit Industries Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0162,SANGHIPOLY,INE146A01013,Sanghi Polyesters Limited,Main Board,2017-03-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0163,SCINTSOFT,INE355B01018,Scintilla Software Technology Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0164,SHRVINDPPR,INE210D01011,Shree Vindhya Paper Mills Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0165,SMFINANC,INE464101018,S M Finance Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0166,SOMANICEM,INE372501010,Somani Cement Company Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0167,SQRDSFWARE,INE286A01017,DSQ Software Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0168,STEELTUBES,INE926A01018,Steel Tubes of India Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0169,SUNEARTH,INE744A01015,Sun Earth Ceramics Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0170,SYNTHCHEM,INE024A01012,Synthetics & Chemicals Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0171,TELEDATAGL,INE480B01022,Teledata Informatics Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0172,VISHALEXPO,INE167C01023,Vishal Exports Overseas Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0173,VISIONLTD,INE514B01010,Vision Organics Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0174,WELLWININD,INE752A01018,Wellwin Industry Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0175,XEDDTELCOM,INE301101015,Xedd Telecom Limited,Main Board,2017-03-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0176,AMTL,INE436N01029,Advance Metering Technology Limited,Main Board,2017-05-02,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0177,KRISNAFILA,INE073A01019,Krishna Filament Limited ,Main Board,2017-05-02,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0178,ANKURDRUGS,INE238D01012,Ankur Drugs and Pharma Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0179,ASHCONIUL,INE714F01033,Ashco Niulab Industries Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0180,CORAL-HUB,INE108J01030,Coral Hub Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0181,CREWBOS,INE514G01019,Crew B.O.S. Products Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0182,DCHL,INE137G01027,Deccan Chronicle Holdings Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0183,DHANUS,INE406H01016,Dhanus Technologies Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0184,EVINIX,INE961H01028,Evinix Accessories Limited (currently known as Evinix Industries Limited),Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0185,IOLN,INE517C01011,IOL Netcom Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0186,KOUTONS,INE406I01014,Koutons Retail India Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0187,NUCHEM,INE946A01016,Nuchem Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0188,PAREKHPLAT,INE598A01015,Parekh Platinum Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0189,PASUPATI,INE095D01024,Pasupati Fabrics Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0190,POLARIND,INE057B01010,Polar Industries Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0191,SPANCO,INE360B01026,Spanco Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0192,TAKSHEEL,INE889I01011,Taksheel Solutions Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0193,TELEDATAIT,INE391I01018,Teledata Technology Solutions Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0194,TELEMARINE,INE473I01014,Teledata Marine Solutions Limited,Main Board,2017-05-12,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0195,VIKASHMET,INE158H01013,Vikash Metal & Power Limited,Main Board,2017-05-12,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0196,VIKASHMET,INE158H01013,SRG Infotec (India) Limited,Main Board,2017-06-30,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0197,ELITE,INE584S01017,Elite Conductors Limited,ITP,2017-08-16,Exit from ITP platform,NSE official delisted companies register
+NSEDL0198,HOCL,INE048A01011,Hindustan Organic Chemicals Limited,Main Board,2017-08-24,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0199,ARAVALIIND,INE450C01015,Aravali Industries Limited,Main Board,2017-09-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0200,GROWTECHNO,INE184701014,Growth Techno Projects Limited,Main Board,2017-09-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0201,NAMASTEXP,INE583A01017,Namaste Exports Limited,Main Board,2017-09-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0202,NEPCAGRO,INE587A01018,NEPC Agro Foods Limited,Main Board,2017-09-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0203,NEPCTEX,INE574B01014,NEPC Textiles Limited,Main Board,2017-09-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0204,ORGINFO,INE686D01012,ORG Informatics Limited,Main Board,2017-09-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0205,SB&TINTL,INE465B01015,SB&T International Limited,Main Board,2017-09-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0206,PADMALAYAT,INE243B01016,Padmalaya Telefilms Limited,Main Board,2017-09-25,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0207,MOHINI,INE450S01011,Mohini Health & Hygiene Limited,ITP,2017-10-25,Exit from ITP platform,NSE official delisted companies register
+NSEDL0208,ISPATPROF,INE798A01011,Ispat Profile (I) Limited ,Main Board,2018-02-26,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0209,PEPL,INE843A01023,Pearl Engineering Polymers Limited,Main Board,2018-02-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0210,EMTEXIND,INE907B01016,Emtex Industries ( India ) Limited,Main Board,2018-03-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0211,MAARSOFTW,INE390A01017,Maars Software International Limited,Main Board,2018-03-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0212,KLGSYSTEL,INE799A01019,KLG Systel Limited,Main Board,2018-04-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0213,CAPCO,INE012T01017,Capco Industries Limited,ITP,2018-05-07,Exit from ITP platform,NSE official delisted companies register
+NSEDL0214,BPLSANUTIL,INE312A01011,B S Appliances Limited ,Main Board,2018-05-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0215,SAITELE,INE294C01017,Sai Television Limited ,Main Board,2018-05-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0216,AGRODUTCH,INE135B01014,Agro Dutch Industries Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0217,BRANDHOUSE,INE317J01011,Brandhouse Retails Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0218,BROADCAST,INE698H01018,Broadcast Initiatives Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0219,CRESTANI,INE774A01012,Crest Animation Studios Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0220,ELDERPHARM,INE975A01015,Elder Pharmaceuticals Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0221,FIRSTLEASE,INE492B01019,First Leasing Company India Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0222,GLODYNE,INE932G01021,Glodyne Technoserve Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0223,HELIOSMATH,INE674B01012,Helios and Matheson Information Technology Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0224,KEMROCK,INE990B01012,Kemrock Industries and Exports Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0225,KFA,INE438H01019,Kingfisher Airlines Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0226,KOPDRUGS,INE746A01010,KDL Biotech Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0227,LUMAXAUTO,INE547G01019,Lumax Automotive Systems Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0228,NCOPPER,INE846H01039,Nissan Copper Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0229,PLETHICO,INE491H01018,Plethico Pharmaceuticals Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0230,SHRIASTER,INE900K01012,Shri Aster Silicates Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0231,SURYAPHARM,INE249G01020,Surya Pharmaceuticals Limited,Main Board,2018-05-30,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0232,TULIP,INE122H01027,Tulip Telecom Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0233,VARUN,INE032G01012,Varun Industries Limited,Main Board,2018-05-30,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0234,NEO,INE471R01019,Neopolitan Pizza Limited,ITP,2018-06-14,Exit from ITP platform,NSE official delisted companies register
+NSEDL0235,FROGCELL,INE385O01018,Frog Cellsat Limited,ITP,2018-06-20,Exit from ITP platform,NSE official delisted companies register
+NSEDL0236,AQUA,INE544K01026,Aqua Logistics Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0237,ASIANELEC,INE441A01026,Asian Electronics Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0238,BIRLAPOWER,INE224B01024,Birla Power Solutions Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0239,CLASSIC,INE987C01024,Classic Diamonds (India) Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0240,CLUTCHAUTO,INE779B01019,Clutch Auto Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0241,COREEDUTEC,INE247G01024,Core Education & Technologies Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0242,DRDATSONS,INE928K01013,Dr. Datson's Labs Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0243,EDSERV,INE889J01019,Edserv Softsystems Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0244,EVERONN,INE678H01010,Everonn Education Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0245,GLORY,INE408H01012,Glory Polyfilms Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0246,GTOFFSHORE,INE892H01017,GOL Offshore Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0247,INNOIND,INE549I01011,Innoventive Industries Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0248,JCTEL,INE264B01020,JCT Electronics Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0249,LLOYDFIN,INE174A01015,Lloyds Finance Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0250,MICROTECH,INE358B01012,Micro Technologies (India) Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0251,PARAPRINT,INE702L01010,Paramount Printpackaging Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0252,SHREEASHTA,INE538H01024,Shree Ashtavinayak Cine Vision Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0253,SVOGL,INE756B01017,SVOGL Oil Gas & Energy Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0254,TIMBOR,INE346L01016,Timbor Home Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0255,TRICOM,INE771B01032,Tricom India Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0256,TWILITAKA,INE783B01029,Twilight Litaka Pharma Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0257,UBENGG,INE328C01013,UB Engineering Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0258,ZENITHINFO,INE899A01017,Zenith Infotech Limited,Main Board,2018-07-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0259,POLARIS,INE763A01023,Polaris Consulting & Services Limited,Main Board,2018-08-01,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0260,ACROPETAL,INE055L01013,Acropetal Technologies Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0261,AFTEK,INE796A01023,Aftek Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0262,ARVINDREM,INE211C01037,Arvind Remedies Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0263,CMAHENDRA,INE378J01013,C Mahendra Exports Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0264,CRANESSOFT,INE234B01023,Cranes Software International Limited,Main Board,2018-08-08,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0265,GEINDSYS,INE599B01011,Gei Industrial Systems Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0266,HINDEVELOP,INE168501018,Hindustan Development Corporation Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0267,KARUNACAB,INE774B01028,Karuna Cables Limited,Main Board,2018-08-08,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0268,KNDENGTECH,INE122801017,KND Engineering Technologies Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0269,MURLIIND,INE806B01028,Murli Industries Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0270,NEPCMICON,INE588A01016,NEPC India Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0271,NRC,INE953C01018,NRC Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0272,OMNITECH,INE810H01019,Omnitech Infosolutions Limited,Main Board,2018-08-08,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0273,ORBITCORP,INE628H01015,Orbit Corporation Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0274,PARAL,INE620C01013,Parekh Aluminex Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0275,SGJHL,INE553K01019,Shree Ganesh Jewellery House (I) Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0276,SHRENUJ,INE633A01028,Shrenuj & Company Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0277,SPECTACLE,INE409H01028,Spectacle Ventures Ltd,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0278,SUPERFORGE,INE661A01011,Super Forgings & Steels Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0279,SURYAJYOTI,INE411C01017,Suryajyoti Spinning Mills Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0280,TECPRO,INE904H01010,Tecpro Systems Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0281,VATSMUSC,INE816A01029,Vatsa Music Limited,Main Board,2018-08-08,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0282,DECOLIGHT,INE172I01012,Decolight Ceramics Limited,Main Board,2018-09-11,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0283,DUNCANSLTD,INE508A01022,Duncans Industries Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0284,GEODESIC,INE371D01029,Geodesic Limited,Main Board,2018-09-11,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0285,MALWACOTT,INE272B01015,Malwa Cotton Spg. Mills Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0286,NET4,INE553E01012,Net 4 India Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0287,NETVISTAIT,INE738A01017,Netvista Information Technology Ltd,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0288,PRITHVI,INE700C01013,Prithvi Information Solutions Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0289,REIAGROLTD,INE385B01031,Rei Agro Limited,Main Board,2018-09-11,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0290,REISIXTEN,INE849J01021,REI Six Ten Retail Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0291,SOFTTECHGR,INE863A01013,Software Technology Group International Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0292,SUDAR,INE384L01017,Sudar Industries Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0293,UBHOLDINGS,INE696A01025,United Breweries (Holdings) Limited,Main Board,2018-09-11,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0294,VATSALTD,INE522B01021,Vatsa Corporations Ltd,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0295,VKSPL,INE213M01024,VKS Projects Limited,Main Board,2018-09-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0296,AICHAMP,INE768E01024,AI Champdany Industries Limited,Main Board,2018-10-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0297,QVC,INE899Q01013,QVC Realty Co. Limited,ITP,2018-12-13,Exit from ITP platform,NSE official delisted companies register
+NSEDL0298,ELECTROSL,INE481K01021,ELECTROSTEEL STEELS LIMITED,Main Board,2018-12-20,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0299,INFINITE,INE486J01014,Infinite Computer Solutions (India) Limited,Main Board,2018-12-21,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0300,VITALCOMM,INE377B01012,Vital Communications Limited,Main Board,2018-12-27,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0301,JENSONICOL,INE819B01021,Jenson & Nicholson (lndia) Limited ,Main Board,2019-02-13,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0302,SIRPAPER,INE202C01010,The Sirpur Paper Mills Limited,Main Board,2019-03-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0303,SALORAINTL,INE924A01013,Salora International Limited,Main Board,2019-04-25,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0304,ECEIND,INE588B01014,ECE Industries Limited,Main Board,2019-05-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0305,RAMGOPOLY,INE410D01017,Ramgopal Polytex Limited,Main Board,2019-07-25,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0306,KITPLYIND,INE147B01019,Kitply Industries Limited ,Main Board,2019-08-20,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0307,ELAND,INE311H01018,E-Land Apparel Limited,Main Board,2019-10-01,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0308,AMAR,INE787G01011,Amar Remedies Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0309,HANUNG,INE648H01013,Hanung Toys and Textiles Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0310,HINDDORROL,INE551A01022,Hindustan Dorr-Oliver Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0311,LITL,INE785C01048,Lanco Infratech Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0312,LML,INE862A01015,LML Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0313,MOSERBAER,INE739A01015,Moser-Baer (I) Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0314,SAMTEL,INE381A01016,Samtel Color Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0315,SERVALL,INE431L01016,Servalakshmi Paper Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0316,SUPREMETEX,INE651G01027,Supreme Tex Mart Limited,Main Board,2019-10-17,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0317,NITESHEST,INE639K01016,NEL Holdings Limited,Main Board,2019-11-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0318,KAWIRES,INE372S01017,K A Wires Limited,ITP,2019-12-27,Exit from ITP platform,NSE official delisted companies register
+NSEDL0319,KESARENT,INE133B01019,Kesar Enterprises Limited,Main Board,2020-01-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0320,KTIL,INE096L01025,Kesar Terminals & Infrastructure Limited,Main Board,2020-01-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0321,ASSAMCO,INE442A01024,Assam Company India Limited,Main Board,2020-01-20,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0322,RAJASPETRO,INE257501010,Rajasthan Petro Synthetics Limited,Main Board,2020-02-13,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0323,ABGSHIP,INE067H01016,ABG Shipyard Limited,Main Board,2020-03-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0324,ENTEGRA,INE826A01028,Entegra Limited,Main Board,2020-03-02,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0325,GEMINI,INE878C01033,Gemini Communication Limited,Main Board,2020-03-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0326,SHILPI,INE510K01019,Shilpi Cable Technologies Limited,Main Board,2020-03-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0327,SURANAIND,INE659D01019,Surana Industries Limited,Main Board,2020-03-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0328,TODAYS,INE944B01019,Todays Writing Instruments Limited,Main Board,2020-03-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0329,USHERAGRO,INE235G01011,Usher Agro Limited,Main Board,2020-03-02,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0330,PRASGLOFIN,INE463201017,Silicon Valley Infotech Limited,Main Board,2020-03-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0331,ANGIND,INE017D01010,ANG Industries Limited,Main Board,2020-07-10,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0332,FARMAXIND,INE890I01035,Farmax India Limited,Main Board,2020-07-10,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0333,FIRSTWIN,INE315J01015,First Winner Industries Limited,Main Board,2020-07-10,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0334,NICCO,INE241C01026,Nicco Corporation Limited,Main Board,2020-07-10,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0335,PANORAMUNI,INE194B01029,Panoramic Universal Limited,Main Board,2020-07-10,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0336,RASOYPR,INE904G01038,Rasoya Proteins Limited,Main Board,2020-07-10,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0337,EDL,INE180G01019,Empee Distilleries Limited,Main Board,2020-07-24,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0338,AVENTUS,INE587S01010,Aventus Buildcon Limited,ITP,2020-08-04,Exit from ITP platform,NSE official delisted companies register
+NSEDL0339,HEXAWARE,INE093A01033,Hexaware Technologies Limited,Main Board,2020-11-09,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0340,ADHUNIK,INE400H01019,Adhunik Metaliks Limited,Main Board,2020-11-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0341,UVSL,INE292A01023,Uttam Value Steels Limited,Main Board,2020-12-01,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0342,LAKSHVILAS,INE694C01018,Lakshmi Vilas Bank Limited,Main Board,2020-12-18,"Pursuant to gazette notification dated November 25, 2020 issued by Department of Financial Services, Ministry of Finance.",NSE official delisted companies register
+NSEDL0343,GARDENSILK,INE526A01016,Garden Silk Mills Limited,Main Board,2021-02-08,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0344,BILPOWER,INE952D01018,Bilpower Limited,Main Board,2021-02-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0345,BSLIMITED,INE043K01029,BS Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0346,KHAITANELE,INE761A01019,Khaitan Electricals Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0347,NAGAROIL,INE453M01018,Nagarjuna Oil Refinery Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0348,NARMADASUG,INE209601017,Girdharilal Sugar and Allied Industries Ltd,Main Board,2021-02-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0349,POCHIRAJU,INE332G01032,Pochiraju Industries Limited,Main Board,2021-02-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0350,PROVOGE,INE968G01033,Provogue (India) Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0351,SGFL,INE883G01018,Shree Ganesh Forgings Limited,Main Board,2021-02-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0352,SKUMARSYNF,INE772A01016,S. Kumars Nationwide Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0353,SUNILHITEC,INE305H01028,Sunil Hitech Engineers Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0354,SURANACORP,INE357D01010,Surana Corporation Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0355,TARAJEWELS,INE799L01016,Tara Jewels Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0356,VIJSHAN,INE806F01011,Vijay Shanthi Builders Limited,Main Board,2021-02-24,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0357,ZYLOG,INE225I01026,Zylog Systems Limited,Main Board,2021-02-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0358,BABAFOOD,INE672X01010,Baba Agro Food Limited,SME,2021-03-05,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0359,GLOBOFFS,INE446C01013,"Global
+Offshore
+Services
+Limited",Main Board,2021-03-22,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0360,GTNIND,INE537A01013,"GTN Industries
+Limited",Main Board,2021-03-22,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0361,CNOVAPETRO,INE672K01025,CIL Nova Petrochemicals Limited,Main Board,2021-04-13,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0362,NOESISIND,INE141B01020,Noesis Industries Limited,Main Board,2021-04-22,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0363,PETRONENGG,INE742A01019,Petron Engineering Construction Limited,Main Board,2021-04-22,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0364,PRABHAT,INE302M01033,Prabhat Dairy Limited,Main Board,2021-04-30,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0365,JAIHINDPRO,INE343D01010,Jaihind Projects Limited,Main Board,2021-06-16,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0366,SANGHVIFOR,INE263L01013,Sanghvi Forging and Engineering Limited,Main Board,2021-06-17,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0367,HUSYSLTD,INE336T01010,Husys Consulting Limited,SME,2021-07-08,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0368,BSELINFRA,INE395A01016,BSEL Infrastructure Realty Limited,Main Board,2021-07-20,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0369,SICAGEN,INE176J01011,Sicagen India Limited,Main Board,2021-07-29,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0370,SUJANAUNI,INE216G01011,Sujana Universal Industries Limited,Main Board,2021-08-09,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0371,PARABDRUGS,INE618H01016,Parabolic Drugs Limited,Main Board,2021-08-11,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0372,ESSDEE,INE825H01017,Ess Dee Aluminium Limited,Main Board,2021-08-27,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0373,HIGHGROUND,INE361M01021,High Ground Enterprise Limited,Main Board,2021-08-27,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0374,SHLAKSHMI,INE851B01016,Shri Lakshmi Cotsyn Limited,Main Board,2021-08-27,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0375,SITASHREE,INE686I01011,Sita Shree Food Products Limited,Main Board,2021-08-27,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0376,SRSLTD,INE219H01039,SRS Limited,Main Board,2021-08-27,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0377,HINDSYNTEX,INE155B01012,Hind Syntex Limited,Main Board,2021-09-03,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0378,JVLAGRO,INE430G01026,JVL Agro Industries Limited,Main Board,2021-09-03,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0379,GUJNRECOKE,INE110D01013,Gujarat NRE Coke Limited,Main Board,2021-09-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0380,GUJNREDVR,IN9110D01011,Gujarat NRE Coke Limited,Main Board,2021-09-24,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0381,AMTEKAUTO,INE130C01021,Amtek Auto Limited,Main Board,2021-09-27,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0382,ZODJRDMKJ,INE077B01018,Zodiac JRD- MKJ Limited,Main Board,2021-09-28,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0383,DHFL,INE202B01012,Dewan Housing Finance Corporation Limited,Main Board,2021-09-29,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0384,CKPPRODUCT,INE977V01017,CKP Products Limited ,SME,2021-11-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0385,SIMPLEX,INE898F01018,Simplex Projects Limited,Main Board,2021-11-26,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0386,CASTEXTECH,INE068D01021,Castex Technologies Limited,Main Board,2021-12-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0387,MMNL,INE702S01015,MIG Media Neurons Limited,ITP,2021-12-21,Exit from ITP platform,NSE official delisted companies register
+NSEDL0388,SMPL,INE215G01021,Splendid Metal Products Limited,Main Board,2022-01-14,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0389,SYNCOM,INE602K01014,Syncom Healthcare Limited,Main Board,2022-01-14,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0390,GTNTEX,INE302H01017,GTN Textiles Limited,Main Board,2022-01-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0391,PATSPINLTD,INE790C01014,Patspin India Limited,Main Board,2022-01-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0392,ARIHANT,INE413D01011,Arihant Foundations & Housing Limited,Main Board,2022-02-11,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0393,KWALITY,INE775B01025,Kwality Limited,Main Board,2022-02-28,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0394,PRADIP,INE495J01015,Pradip Overseas Limited,Main Board,2022-03-16,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0395,PUSHPREALM,INE728W01012,Pushpanjali Realms and Infratech Limited,SME,2022-03-23,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0396,STINDIA,INE090C01019,STI India Limited,Main Board,2022-03-23,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0397,VIMALOIL,INE067D01015,Vimal Oil & Foods Ltd,Main Board,2022-03-23,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0398,PAEL,INE766A01018,PAE Limited,Main Board,2022-04-18,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0399,ROHITFERRO,INE248H01012,Rohit Ferro-Tech Limited,Main Board,2022-05-04,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0400,CHROMATIC,INE662C01015,Chromatic India Limited,Main Board,2022-07-18,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0401,PBAINFRA,INE160H01019,PBA Infrastructure Limited,Main Board,2022-09-01,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0402,RAMSARUP,INE005D01015,Ramsarup Industries Limited ,Main Board,2022-09-29,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0403,ANSALHSG,INE880B01015,Ansal Housing Limited,Main Board,2022-10-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0404,TCIDEVELOP,INE662L01016,TCI Developers Limited,Main Board,2022-11-18,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0405,UTTAMSTL,INE699A01011,Uttam Galva Steels Limited,Main Board,2022-12-08,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0406,AUSTRAL,INE455J01027,Austral Coke & Projects Limited,Main Board,2022-12-15,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0407,BHAGYAPROP,INE363W01018,Bhagyanagar Properties Limited ,Main Board,2022-12-19,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0408,SUBCAPCITY,INE845C01016,International Constructions Limited,Main Board,2023-01-12,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0409,COX&KINGS,INE008I01026,Cox & Kings Limited,Main Board,2023-02-23,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0410,STERLINBIO,INE324C01038,Sterling Biotech Limited,Main Board,2023-03-03,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0411,SINTEX,INE429C01035,Sintex Industries Limited,Main Board,2023-03-10,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0412,CKPLEISURE,INE418Y01016,CKP Leisure Limited,SME,2023-03-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0413,POWERFUL,INE650Z01011,Powerful Technologies Limited,SME,2023-03-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0414,DFMFOODS,INE456C01020,DFM Foods Limited,Main Board,2023-04-05,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0415,PSL,INE474B01017,PSL Limited,Main Board,2023-04-21,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0416,EMCO,INE078A01026,Emco Limited ,Main Board,2023-04-28,Delisting - Liquidation,NSE official delisted companies register
+NSEDL0417,AUTORIDFIN,INE450A01019,Autoriders Finance Limited,Main Board,2023-05-23,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0418,NATNLSTEEL,INE088B01015,National Steel And Agro Industries Limited,Main Board,2023-06-27,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0419,MRO,INE330R01017,M.R. Organisation Limited,ITP,2023-08-08,Exit from ITP platform,NSE official delisted companies register
+NSEDL0420,OISL,INE196J01019,OCL Iron and Steel Limited,Main Board,2023-08-18,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0421,AUTOLITIND,INE448A01013,Autolite (India) Limited,Main Board,2023-08-29,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0422,VIRESCENT,INE0GYU23027 *,Virescent Renewable Energy Trust,Main Board,2023-09-07,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0423,THIRUSUGAR,INE409A01015,Thiru Arooran Sugars Limited,Main Board,2023-11-20,Voluntary Delisting ,NSE official delisted companies register
+NSEDL0424,SREIBNPNCD,INE881J07DQ3,Srei Equipment Finance Limited,Main Board,2023-12-14,Voluntary Delisting,NSE official delisted companies register
+NSEDL0425,SREINFRA,INE872A01014,SREI Infrastructure Finance Limited,Main Board,2023-12-14,Voluntary Delisting,NSE official delisted companies register
+NSEDL0426,JMTAUTOLTD,INE988E01036,JMT Auto Limited,Main Board,2023-12-18,Voluntary Delisting,NSE official delisted companies register
+NSEDL0427,SHARONBIO,INE028B01029,Sharon Bio-Medicine Limited,Main Board,2024-02-20,Voluntary Delisting,NSE official delisted companies register
+NSEDL0428,MOHOTAIND,INE313D01013,Mohota Industries Limited,Main Board,2024-03-28,Voluntary Delisting,NSE official delisted companies register
+NSEDL0429,SONISOYA,INE301Z01011,Soni Soya Products Limited ,SME,2024-07-05,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0430,LGBFORGE,INE201J01017,LGB Forge Limited,Main Board,2024-08-06,Voluntary Delisting,NSE official delisted companies register
+NSEDL0431,BIRLATYRE,INE0AEJ01013,Birla Tyres Limited,Main Board,2024-08-08,Voluntary Delisting,NSE official delisted companies register
+NSEDL0432,SBIHOMEFIN,INE627A01012,SBI Home Finance Limited,Main Board ,2024-08-12,Operation of Law,NSE official delisted companies register
+NSEDL0433,CELESTIAL,INE221I01017,Celestial Biolabs Limited ,Main Board,2024-10-17,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0434,JIKIND,INE026B01049,JIK Industries Limited,Main Board,2024-10-17,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0435,JINDCOT,INE904J01016,Jindal Cotex Limited,Main Board,2024-11-11,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0436,RELCAPITAL,INE013A01015,Reliance Capital Limited,Main Board,2025-02-13,Voluntary Delisting,NSE official delisted companies register
+NSEDL0437,JPINFRATEC,INE099J01015,Jaypee Infratech Limited,Main Board,2025-02-21,Voluntary Delisting,NSE official delisted companies register
+NSEDL0438,MVL,INE744I01034,MVL Limited,Main Board,2025-02-28,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0439,METALFORGE,INE425A01011,Metalyst Forgings Limited,Main Board,2025-03-26,Voluntary Delisting,NSE official delisted companies register
+NSEDL0440,SPTL,INE501W01021,Sintex Plastics Technology Limited,Main Board,2025-05-21,Voluntary Delisting,NSE official delisted companies register
+NSEDL0441,SATHAISPAT,INE176C01016,Sathavahana Ispat Limited ,Main Board,2025-07-01,Voluntary Delisting,NSE official delisted companies register
+NSEDL0442,OCCL,INE321D01016,Oriental Carbon & Chemicals Limited,Main Board,2025-07-15,Voluntary Delisting,NSE official delisted companies register
+NSEDL0443,PENTAGOLD,INE175Y01012,Penta Gold Limited,SME,2025-07-25,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0444,SSINFRA,INE182Z01015,S.S. Infrastructure Development Consultants Limited,SME,2025-07-25,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0445,MANPASAND,INE122R01018,Manpasand Beverages Limited,Main Board,2025-08-05,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0446,HINDNATGLS,INE952A01022,Hindusthan National Glass & Industries Limited,Main Board,2025-09-22,Voluntary Delisting,NSE official delisted companies register
+NSEDL0447,HINDMOTORS,INE253A01025,Hindustan Motors Limited,Main Board,2025-10-10,Voluntary Delisting,NSE official delisted companies register
+NSEDL0448,BHALCHANDR,INE992S01012,Bhalchandram Clothing Limited,ITP,2025-11-03,Exit from ITP platform,NSE official delisted companies register
+NSEDL0449,HERCULES,INE688E01024,Hercules Investments Limited,Main Board,2026-01-09,Voluntary Delisting,NSE official delisted companies register
+NSEDL0450,ROLTA,INE293A01013,Rolta India Limited,Main Board,2026-01-19,Voluntary Delisting,NSE official delisted companies register
+NSEDL0451,FEDDERELEC,INE249C01011,Fedders Electric and Engineering Limited,Main Board,2026-03-02,Voluntary Delisting,NSE official delisted companies register
+NSEDL0452,FSC,INE935Q01015,Future Supply Chain Solutions Limited,Main Board,2026-03-24,Voluntary Delisting,NSE official delisted companies register
+NSEDL0453,VISESHINFO,INE861A01058,Visesh Infotecnics Limited,Main Board,2026-04-06,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0454,CLOUD,INE0JOO01021,Varanium Cloud Limited,SME,2026-04-22,Compulsory Delisting ,NSE official delisted companies register
+NSEDL0455,JPASSOCIAT,INE455F01025,Jaiprakash Associates Limited,Main Board,2026-06-18,Voluntary Delisting,NSE official delisted companies register

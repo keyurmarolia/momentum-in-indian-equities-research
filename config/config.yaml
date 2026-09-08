@@ -1,0 +1,106 @@
+project:
+  title: "Momentum in Indian Equities"
+  author: "Keyur Marolia"
+
+formation:
+  periods: [6M, 12M]
+  months: [6, 12]
+  skip_recent_month: false
+  endpoint_method: last_common_market_close_on_or_before_calendar_offset
+  minimum_price_coverage_ratio: 0.968
+
+universe:
+  liquidity_metric: median_daily_traded_value
+  liquidity_lookback_days: 126
+  selection_mode: point_in_time_quality
+  capacity:
+    reference_aum_inr: 10000000
+    reference_holdings: 24
+    maximum_mdtv_participation: 0.05
+    apply_to_strategy_selection: false
+    aum_sensitivity_inr: [10000000, 50000000]
+    participation_sensitivity: [0.025, 0.05, 0.10]
+    use_common_conservative_universe_across_holdings: false
+  minimum_volume_observations_in_126_session_window: 120
+  require_formation_endpoint_prices: true
+  exclude_unresolved_price_jumps: true
+  unresolved_price_jump_threshold: 0.50
+
+rebalancing:
+  frequencies: [1M, 3M, 6M]
+  signal_price: close
+  execution_price: next_valid_open
+  execution_model: one_shot_research_fill
+  model_multi_day_execution: false
+  model_market_impact: false
+
+concentration:
+  holdings: [12, 24, 50]
+  reference_holdings: 24
+
+strategies:
+  raw_momentum: {enabled: true}
+  vol_adjusted: {enabled: true, annualization_factor: 252}
+  jensen_alpha: {enabled: true, estimation_window: formation_period, market: nifty_50, reference_return: absl_liquid_fund_continuous}
+  km_momentum:
+    enabled: true
+    momentum_rank: raw_momentum
+    ema_length: 100
+    minimum_close_above_ema: 0.03
+    supertrend_length: 10
+    supertrend_multiplier: 3.0
+    daily_exit: next_valid_open
+    stopped_capital: cash_until_next_scheduled_rebalance
+  jegadeesh_titman:
+    enabled: true
+    selection: top_and_bottom_n_over_two
+    long_gross_budget: 0.50
+    short_gross_budget: 0.50
+    implementation_status: academic_reference_not_executable_backtest
+    borrow_cost_reference:
+      enabled: true
+      baseline_annual_rate: 0.06
+      sensitivity_annual_rates: [0.03, 0.06, 0.12]
+      apply_to_short_notional_by_holding_days: true
+      model_margin: false
+      model_recalls: false
+      model_stock_level_availability: false
+
+cash_sleeve:
+  pre_2013_plan: absl_liquid_regular_growth
+  post_2013_plan: absl_liquid_direct_growth
+  model_plan_transition: true
+
+portfolio:
+  initial_capital_inr: 10000000
+  maintenance_modes: [equal_weight, winner_drift]
+  winner_drift:
+    continuing_position_cap_multiple_of_equal_weight: 2.0
+    entrant_max_multiple_of_equal_weight: 1.0
+    entrant_exit_pairing: stable_symbol_order
+    residual_redistribution: equal_waterfall_to_position_cap
+
+costs:
+  broker: fyers
+  methodology: current_cost_backcast
+  schedule_as_of: "2026-08-29"
+
+tax_profile:
+  ordinary_income_profile: highest_marginal_slab
+  surcharge: false
+  cess: true
+  use_historical_rates: true
+  use_historical_equity_capital_gains_rules: true
+  cash_sleeve_realization_tax_modeled: false
+
+tail_risk:
+  method: historical
+  horizon: monthly
+  confidence: 0.95
+
+regimes:
+  attribution_only: true
+  direction_method: close_vs_simple_moving_average
+  direction_window_days: 200
+  volatility_window_days: 63
+  volatility_threshold: expanding_historical_median

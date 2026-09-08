@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "momentum-india-research"
+version = "0.1.0"
+description = "Indian equity momentum research with specified trading costs and dated tax rules"
+requires-python = ">=3.11"
+dependencies = [
+  "pandas>=2.2,<3",
+  "numpy>=2.0,<3",
+  "plotly>=5.24,<7",
+  "PyYAML>=6,<7",
+  "pyarrow>=17,<21",
+  "requests>=2.31,<3",
+  "fyers-apiv3>=3,<4",
+  "python-dotenv>=1,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8,<9",
+  "ruff>=0.12,<1",
+  "nbformat>=5.10,<6",
+  "nbconvert>=7.16,<8",
+  "nbclient>=0.10,<1",
+  "ipykernel>=6,<7",
+  "ipython>=8,<10",
+  "jupyter-client>=8,<9",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = [".", "src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+extend-exclude = ["notebooks", "data", "reports", "dashboard"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/momentum_india/portfolio.py" = ["B023"]

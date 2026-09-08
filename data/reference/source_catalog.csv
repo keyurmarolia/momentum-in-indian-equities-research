@@ -1,0 +1,21 @@
+source_id,topic,publisher,title,url,last_checked,usage
+ITD_CURRENT,current_tax,Income Tax Department,Individual tax information,https://www.incometax.gov.in/iec/foportal/help/individual-business-profession,2026-08-29,Current slabs cess and surcharge context
+FA2004,equity_tax_and_cess,Government of India,Finance Bill and Budget 2004-05,https://www.indiabudget.gov.in/budget_archive/ub2004-05/fb/bill11.pdf,2026-08-29,STT regime education cess and section 111A context
+FA2005,stt,Government of India,Finance Bill 2005,https://www.indiabudget.gov.in/budget_archive/ub2005-06/fb/bill7.pdf,2026-08-29,Delivery STT rate change
+FA2008,equity_tax,Government of India,Finance Bill 2008,https://www.indiabudget.gov.in/budget_archive/ub2008-09/fb/bill32.pdf,2026-08-29,Section 111A rate change
+FA2014,debt_fund_tax,Government of India,Budget 2014-15 fiscal strategy,https://www.indiabudget.gov.in/budget2014-2015/ub2014-15/frbm/frbm3.pdf,2026-08-29,Debt-fund holding period and indexation
+FA2018,equity_tax_and_cess,Government of India,Budget Speech 2018-19,https://www.indiabudget.gov.in/budget2019-20/doc/bspeech/bs201819.pdf,2026-08-29,Section 112A grandfathering and 4 percent HEC
+FA2023,debt_fund_tax,Government of India,Finance Bill 2023,https://www.indiabudget.gov.in/budget2023-24/doc/Finance_Bill.pdf,2026-08-29,Section 50AA
+FA2024,capital_gains,Government of India,Finance Bill Memorandum 2024,https://www.indiabudget.gov.in/budget2024-25/doc/memo.pdf,2026-08-29,23-Jul-2024 capital-gain changes
+NSE_STT_2004,stt,NSE,NSE STT calculation circular,https://nsearchives.nseindia.com/content/circulars/cmtr5588.htm,2026-08-29,Initial delivery STT rate
+NSE_CURRENT,current_costs,NSE,SEBI turnover fees STT and other levies,https://www.nseindia.com/static/invest/first-time-investor-sebi-turnover-fees-stt-other-levies,2026-08-29,Current statutory charges
+FYERS_CURRENT,current_costs,FYERS,Brokerage statutory and applicable charges,https://support.fyers.in/portal/en/kb/articles/what-are-the-brokerage-statutory-and-other-applicable-charges-at-fyers,2026-08-29,Current-cost backcast
+CBIC_GST,gst,CBIC,GST circular and sectoral guidance,https://cbic-gst.gov.in/pdf/circular-cgst-119.pdf,2026-08-29,18 percent GST context
+AMFI_NAV,liquid_fund_nav,AMFI,NAV history download,https://www.amfiindia.com/net-asset-value/nav-download,2026-08-29,Official NAV-history publication and 90-day download limit
+ABSL_LIQUID,liquid_fund_nav,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,https://mutualfund.adityabirlacapital.com/products/saving-solution/aditya-birla-sun-life-liquid-fund,2026-08-29,Official scheme identity inception and current fund information
+MFAPI_ABSL_LIQUID,liquid_fund_nav,MFAPI,AMFI NAV mirror for schemes 100047 and 119568,https://api.mfapi.in/mf/,2026-08-29,Two-request cache-first historical acquisition after cross-fund depth comparison
+NSE_SLBS,short_borrow_reference,NSE,NSE securities lending and borrowing features,https://www.nseindia.com/static/products-services/slbs-features,2026-08-29,Market-determined lending fee tenure eligibility and recall limitations
+NSE_SLBS_MARGIN,short_borrow_reference,NSE,NSE SLBS margins,https://www.nseindia.com/static/products-services/slbs-margins,2026-08-29,Lending-fee and margin mechanics excluded from academic reference
+NSE_BHAV_LEGACY,equity_ohlcv,NSE,NSE historical CM equity bhavcopy archive,https://nsearchives.nseindia.com/content/historical/EQUITIES/,2026-08-29,One validated exchange-wide ZIP per trading day through 5-Jul-2024
+NSE_BHAV_UDIFF,equity_ohlcv,NSE,NSE CM UDiFF common bhavcopy archive,https://nsearchives.nseindia.com/content/cm/,2026-08-29,One validated exchange-wide ZIP per trading day from 8-Jul-2024
+NSE_CORP_ACTIONS,equity_corporate_actions,NSE,NSE corporate filings corporate actions,https://www.nseindia.com/companies-listing/corporate-filings-actions,2026-08-29,One cached market-wide response used only for explicit split and bonus price factors

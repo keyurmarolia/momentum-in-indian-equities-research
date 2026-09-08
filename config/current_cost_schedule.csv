@@ -1,0 +1,10 @@
+component,applies_to,side,rate,rate_unit,cap_inr,taxable_for_gst,source_url,validation_status
+brokerage,executed_order,both,0.003,fraction_of_turnover,20,true,https://support.fyers.in/portal/en/kb/articles/what-are-the-brokerage-charges-for-equity-intraday-and-delivery-trades-at-fyers,verified_current_official
+stt,delivery_value,buy,0.001,fraction_of_turnover,,false,https://support.fyers.in/portal/en/kb/articles/what-are-the-brokerage-statutory-and-other-applicable-charges-at-fyers,verified_current_official
+stt,delivery_value,sell,0.001,fraction_of_turnover,,false,https://support.fyers.in/portal/en/kb/articles/what-are-the-brokerage-statutory-and-other-applicable-charges-at-fyers,verified_current_official
+exchange_transaction,turnover,both,0.000030699,fraction_of_turnover,,true,https://fyers.in/charges-list,verified_current_official
+sebi_turnover,turnover,both,0.000001,fraction_of_turnover,,true,https://fyers.in/charges-list,verified_current_official
+ipft,turnover,both,0.000000001,fraction_of_turnover,,true,https://fyers.in/charges-list,verified_current_official
+stamp_duty,turnover,buy,0.00015,fraction_of_turnover,,false,https://www.nseindia.com/static/invest/first-time-investor-sebi-turnover-fees-stt-other-levies,verified_current_official
+dp_charge,isin_per_sell_day,sell,12.5,inr_flat,,true,https://support.fyers.in/portal/en/kb/articles/what-is-dp-charges,verified_current_official
+gst,taxable_fees,both,0.18,fraction_of_taxable_fees,,false,https://support.fyers.in/portal/en/kb/articles/what-are-the-brokerage-statutory-and-other-applicable-charges-at-fyers,verified_current_official

@@ -1,0 +1,5 @@
+rule_id,effective_from,effective_to,cess_name,cess_rate,applies_to_tax_plus_surcharge,source_note,source_url,validation_status
+CESS_NONE,2000-04-01,2004-03-31,None,0.00,true,No education cess in the research period before FY 2004-05,https://www.indiabudget.gov.in/budget_archive/ub2004-05/fb/bill11.pdf,verified_official
+CESS_EDU_2,2004-04-01,2007-03-31,Education Cess,0.02,true,Finance Act 2004 introduced 2 percent education cess,https://www.indiabudget.gov.in/budget_archive/ub2004-05/fb/bill11.pdf,verified_official
+CESS_EDU_SH_3,2007-04-01,2018-03-31,Education plus Secondary and Higher Education Cess,0.03,true,Combined 2 percent education cess and 1 percent secondary and higher education cess,https://www.indiabudget.gov.in/budget_archive/ub2007-08/fb/bill10.pdf,verified_official
+CESS_HEALTH_EDU_4,2018-04-01,,Health and Education Cess,0.04,true,Finance Act 2018 replaced earlier cesses with 4 percent HEC,https://www.indiabudget.gov.in/budget_archive/ub2019-20/impbud/impbud.pdf,verified_official

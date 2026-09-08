@@ -1,0 +1,17 @@
+equity_history:
+  candidate_start: 2000-10-17
+  end: 2026-08-28
+  maximum_fyers_calls_per_run: 6000
+  minimum_interval_seconds: 0.70
+
+sources:
+  nifty50_fyers_symbol: NSE:NIFTY50-INDEX
+
+nse_bulk_history:
+  start: 2000-10-17
+  end: 2026-08-28
+  legacy_last_date: 2024-07-05
+  request_interval_seconds: 0.15
+  request_timeout_seconds: 15
+  maximum_attempts: 2
+  stop_on_rate_limit: true
