@@ -25,3 +25,5 @@ The manifest identifies the experiments and securities. Compressed experiment fi
 The exporter reads the existing processed market, holdings, trade, return, and risk files. It rejects mismatched portfolio membership, trading charges, stock profit, and academic borrowing before writing the manifest. The validation report is stored in the project’s reports directory.
 
 The project-root `Open Research Dashboard.command` launches the built dashboard on the local computer.
+
+On a fresh clone, run `python scripts/setup_research.py` from the project root first. This installs the versioned data and prebuilt interface. Then `python scripts/serve_dashboard.py` opens it without Node, a broker login or API credentials. [Data and reproduction](../docs/data_access.md) covers installation and interface development.

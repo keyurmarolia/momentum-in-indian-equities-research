@@ -40,8 +40,24 @@ def export(path, book):
     exporter.mathjax_url = ""
     body, _ = exporter.from_notebook_node(book)
     body = body.replace("../reports/tables/", "../tables/")
+    body = body.replace('href="../results/', 'href="../../results/')
+    body = body.replace('href="../docs/', 'href="../../docs/')
     body = re.sub(r'(href="[^"]+)\.ipynb(")', r"\1.html\2", body)
     (OUT / (path.stem + ".html")).write_text(body)
+
+
+def export_index():
+    books = sorted((ROOT / "notebooks").glob("*.ipynb"))
+    links = "".join(
+        f'<li><a href="{p.stem}.html">{html.escape(nbformat.read(p, as_version=4).cells[0].source.splitlines()[0].lstrip("# "))}</a></li>'
+        for p in books
+    )
+    (OUT / "index.html").write_text(
+        '<!doctype html><meta charset="utf-8"><title>Momentum in Indian Equities</title>'
+        '<style>body{font:18px system-ui;max-width:950px;margin:50px auto;padding:20px}li{margin:12px}</style>'
+        '<h1>Momentum in Indian Equities</h1><p>Saved research results. Interactive charts are restored from executed notebook outputs; this view does not rerun the backtests.</p>'
+        '<ol start="0">' + links + '</ol>'
+    )
 
 
 def run(path):
@@ -69,17 +85,7 @@ def main():
         books = [p for p in books if int(p.name[:2]) >= int(sys.argv[2])]
     with ThreadPoolExecutor(max_workers=2) as pool:
         list(pool.map(run, books))
-    books = sorted((ROOT / "notebooks").glob("*.ipynb"))
-    labels = {
-        p: nbformat.read(p, as_version=4).cells[0].source.splitlines()[0].lstrip("# ")
-        for p in books
-    }
-    links = "".join(f'<li><a href="{p.stem}.html">{html.escape(labels[p])}</a></li>' for p in books)
-    (OUT / "index.html").write_text(
-        '<!doctype html><meta charset="utf-8"><title>Momentum in Indian Equities</title><style>body{font:18px system-ui;max-width:950px;margin:50px auto;padding:20px}li{margin:12px}</style><h1>Momentum in Indian Equities</h1><p>Universe, trading costs, five strategies and matched findings.</p><ol start="0">'
-        + links
-        + "</ol>"
-    )
+    export_index()
 
 
 if __name__ == "__main__":

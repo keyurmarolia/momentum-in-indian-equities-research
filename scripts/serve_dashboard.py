@@ -19,7 +19,9 @@ def main():
     folder = ROOT / "dashboard/dist"
     url = f"http://127.0.0.1:{args.port}/"
     if not (folder / "index.html").exists():
-        raise SystemExit("The dashboard build is missing.")
+        raise SystemExit("Dashboard not installed. Run: python scripts/setup_research.py")
+    if not (folder / "data/manifest.json").exists() or not (folder / "plotly.min.js").exists():
+        raise SystemExit("Dashboard data/assets not installed. Run: python scripts/setup_research.py")
     handler = partial(SimpleHTTPRequestHandler, directory=str(folder))
     try:
         server = ThreadingHTTPServer(("127.0.0.1", args.port), handler)

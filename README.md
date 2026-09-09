@@ -2,6 +2,37 @@
 
 An NSE price-momentum study of portfolio construction, trading charges and risk.
 
+## Run locally
+
+Python 3.12 is the tested environment. From the cloned repository:
+
+```sh
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -e ".[dev]"
+python scripts/setup_research.py
+python scripts/serve_dashboard.py
+```
+
+On Windows, activation is `.venv\Scripts\activate` in Command Prompt. The setup command downloads a pinned, checksum-verified GitHub release containing the research datasets, saved results and prebuilt dashboard. No FYERS account or API key is required. Allow 8 GB of free disk space during extraction.
+
+To read the interactive research notebooks without recalculating the study:
+
+```sh
+python scripts/export_notebooks_html.py
+```
+
+Open `reports/html/index.html` in a browser. GitHub notebook previews show static charts; local HTML retains the sliders, legends and metric selectors. Saved results are distinct from rerunning calculations.
+
+```sh
+python -m pytest -q
+python scripts/setup_research.py --verify
+python scripts/execute_notebooks.py
+```
+
+The last command recalculates all notebook views from the installed research datasets. [Data and reproduction](docs/data_access.md) describes the bundle and the full signal/backtest sequence.
+
 ## Experiment
 
 Five strategies: Raw Momentum, Volatility-Adjusted Momentum, Jensen Alpha Momentum, Jegadeesh–Titman academic momentum and KM Momentum.
@@ -47,7 +78,7 @@ Regimes describe outcomes and never alter positions. In-sample comparisons do no
 
 The local [dashboard](dashboard/README.md) browses all 180 experiments, scheduled portfolios, stock histories, holding episodes and risk statistics from saved results. [Open Research Dashboard.command](Open%20Research%20Dashboard.command) launches the local browser view. Dashboard use makes no broker requests.
 
-Downloaded market histories and generated portfolio-level datasets are excluded from the repository. The executed notebooks retain the complete research narrative and reported results.
+Market histories and portfolio datasets are distributed as a versioned release asset, not Git source files. The executed notebooks retain the research narrative, static previews and interactive figure data.
 
 ## Research components
 
