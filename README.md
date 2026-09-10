@@ -2,6 +2,24 @@
 
 An NSE price-momentum study of portfolio construction, trading charges and risk.
 
+## Selected findings
+
+Over the shared 2 July 2007–28 August 2026 window, KM Momentum produced the strongest median post-tax result across 36 cells: 13.2% CAGR and 0.46 Sharpe. Its highest-Sharpe cell used a six-month lookback, quarterly equal-weight reset and 24 stocks, with 19.7% CAGR, 0.84 Sharpe and a 30.1% maximum drawdown.
+
+Volatility adjustment beat raw momentum's Sharpe in 94% of matched cells; KM did so in 75%. Jensen alpha did not improve average CAGR or Sharpe over raw momentum, despite slightly higher medians. The academic winner-minus-loser reference remained stronger under the fixed 6% borrowing assumption, but it is not treated as an executable delivery-equity strategy.
+
+These are in-sample price-return results across a searched grid. They describe the evidence in this dataset rather than establish a causal behavioral mechanism or future performance.
+
+![Saved cross-strategy research comparison](docs/assets/results-preview.png)
+
+Preview: CAGR over the common comparison window. EW means equal-weight reset; WD means winner drift; 1M/3M/6M denote rebalancing intervals. Long-only rows show the post-tax overlay. JT* is the academic long–short reference under a 6% borrowing assumption and is not directly comparable as an executable delivery-equity strategy.
+
+## Explore the analysis
+
+[Cross-strategy findings](notebooks/22_cross_strategy_findings.ipynb) · [KM six-month example](notebooks/18_km_momentum_6m_equal_weight.ipynb) · [Data quality](notebooks/00_research_universe_and_data_quality.ipynb) · [Summary tables](results/)
+
+The saved charts and notebooks can be read on GitHub without downloading the research bundle. The local dashboard provides deeper exploration of all 180 experiments; installation downloads approximately 1.69 GB and needs 8 GB of free space during extraction. Start with the previews below when reviewing the research.
+
 ## Run locally
 
 Python 3.12 is the tested environment. From the cloned repository:
@@ -56,14 +74,6 @@ The executed Jupyter notebooks are the primary research record.
 
 Every strategy notebook fixes its lookback and maintenance rule. Its nine-cell grid includes equity paths, comparable risks, heatmaps, complete portfolio exports and observations.
 
-## Selected findings
-
-Over the shared 2 July 2007–28 August 2026 window, KM Momentum produced the strongest median post-tax result across 36 cells: 13.2% CAGR and 0.46 Sharpe. Its highest-Sharpe cell used a six-month lookback, quarterly equal-weight reset and 24 stocks, with 19.7% CAGR, 0.84 Sharpe and a 30.1% maximum drawdown.
-
-Volatility adjustment beat raw momentum's Sharpe in 94% of matched cells; KM did so in 75%. Jensen alpha did not improve average CAGR or Sharpe over raw momentum, despite slightly higher medians. The academic winner-minus-loser reference remained stronger under the fixed 6% borrowing assumption, but it is not treated as an executable delivery-equity strategy.
-
-These are in-sample price-return results across a searched grid. They describe the evidence in this dataset rather than establish a causal behavioral mechanism or future performance.
-
 ## Interpretation
 
 Long-only results separate raw returns, trading charges and a post-tax overlay. The academic reference instead compares borrowing assumptions and includes collateral/cash earnings.
@@ -88,4 +98,4 @@ Market histories and portfolio datasets are distributed as a versioned release a
 
 ## Related projects
 
-[Credit scorecard](https://github.com/keyurmarolia/credit-scorecard-pd-model) · [IFRS 9 ECL](https://github.com/keyurmarolia/ifrs9-mortgage-ecl) · [Basel capital](https://github.com/keyurmarolia/basel-credit-capital-engine) · [FRTB](https://github.com/keyurmarolia/frtb-market-risk-engine) · [IndiGo research](https://github.com/keyurmarolia/indigo-equity-research)
+[IFRS 9 ECL](https://github.com/keyurmarolia/ifrs9-mortgage-ecl) · [Basel credit capital](https://github.com/keyurmarolia/basel-credit-capital-engine) · [FRTB market risk](https://github.com/keyurmarolia/frtb-market-risk-engine) · [InterGlobe valuation](https://github.com/keyurmarolia/interglobe-aviation-equity-research-model)
